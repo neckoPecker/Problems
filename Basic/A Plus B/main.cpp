@@ -1,5 +1,6 @@
 /*
     A Plus B
+    https://dmoj.ca/problem/aplusb
 
     Test case #1: 	AC 	[0.005s, 	1.63 MB] 	(5/5)
     Test case #2: 	AC 	[0.004s, 	1.63 MB] 	(20/20)
