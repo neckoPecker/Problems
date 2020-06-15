@@ -5,6 +5,13 @@ So far, most problems were found from:
 
   * [LeetCode - https://leetcode.com/](https://leetcode.com/)
   * [DMOJ - https://dmoj.ca/](https://dmoj.ca/)
- 
-Feel free to use this repository any way you want. 
-If you have better solutions than mine (which is highly probable), the please create an issue.
+
+---
+
+ If you would like to contribute to this repo, you can:
+
+  * Suggest changes to current solutions
+  * Suggest a new problem
+  * Replicate solutions using different programming languages
+
+You are free to suggest any improvements or comment on any concerns.
